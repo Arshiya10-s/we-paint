@@ -1,6 +1,6 @@
 # WePaint- Server Side
 
-Click [to view the site](https://wepaint.herokuapp.com/)?
+Click [to view the site](https://wepaint.herokuapp.com/)
 
 ### Tec-stack:
 
